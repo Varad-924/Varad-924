@@ -27,10 +27,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Varad-924)
 
 ---
-
-⭐️ From ['Varad Pemare'](https://github.com/Varad-924)
-
-## 📊 Most Used Languages
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-924&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center"> :handshake:Thank You for Visiting!:handshake:</h2>
